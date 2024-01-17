@@ -1,17 +1,17 @@
-.my-padding-top-56 {
-    padding-top: 56px;
-}
-
+/* test */
 .test, .test * {
     border: 2px dashed red;
     background-color: rgba(255, 0, 0, .5);
 }
+/* fine test */
 
-.my-container-small {
-    max-width: 720px;
-    margin: auto;
+/* padding */
+.my-padding-top-56 {
+    padding-top: 56px;
 }
+/* fine padding */
 
+/* max-width */
 .max-width-720 {
     max-width: 720px;
 }
@@ -19,3 +19,4 @@
 .max-width-960 {
     max-width: 960px;
 }
+/* fine max-width */
