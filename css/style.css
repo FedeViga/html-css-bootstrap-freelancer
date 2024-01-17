@@ -8,6 +8,14 @@
 }
 
 .my-container-small {
-    max-width: 600px;
+    max-width: 720px;
     margin: auto;
+}
+
+.max-width-720 {
+    max-width: 720px;
+}
+
+.max-width-960 {
+    max-width: 960px;
 }
