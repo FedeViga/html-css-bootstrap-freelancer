@@ -7,8 +7,8 @@
 /* fine test */
 
 /* padding */
-.my-padding-top-56 {
-    padding-top: 56px;
+.my-margin-top-88 {
+    margin-top: 88px;
 }
 /* fine padding */
 
@@ -16,9 +16,13 @@
     width: 230px;
 }
 
-/* background colors */
+/*colors */
 .my-bg-green {
     background-color: #1ABC9C;
+}
+
+.my-color-green {
+    color: #1ABC9C;
 }
 
 .my-bg-lightblue {
@@ -28,4 +32,20 @@
 .my-bg-darkblue {
     background-color: #2C3E50;
 }
-/* fine background colors */
+
+.my-color-darkblue {
+    color: #2C3E50;
+}
+
+.my-border-darkblue {
+    border-color: #2C3E50;
+}
+/* fine colors */
+
+/* icone footer personalizzate */
+footer button {
+    width: 40px;
+    height: 40px;
+}
+/* fine icone footer personalizzate */
+
