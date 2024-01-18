@@ -12,19 +12,9 @@
 }
 /* fine padding */
 
-/* max-width */
-.max-width-720 {
-    max-width: 720px;
-}
-
-.max-width-960 {
-    max-width: 960px;
-}
-
 .avatar-image {
     width: 230px;
 }
-/* fine max-width */
 
 /* background colors */
 .my-bg-green {
